@@ -1,0 +1,13 @@
+.header {
+    position: relative;
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    background-color: #00acc1;
+}
+
+.title {
+    font-weight: lighter;
+    font-size: 30px;
+    font-family: Courier New, Courier, monospace
+}
